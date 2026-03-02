@@ -1,0 +1,7 @@
+﻿  seminar 1.c
+C:\Users\marap\source\repos\seminar 1\seminar 1\seminar 1.c(16,38): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\marap\source\repos\seminar 1\seminar 1\seminar 1.c(17,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\marap\source\repos\seminar 1\seminar 1\seminar 1.c(54,32): warning C4047: 'function': 'char' differs in levels of indirection from 'char [14]'
+C:\Users\marap\source\repos\seminar 1\seminar 1\seminar 1.c(54,32): warning C4024: 'modifica_Atribut_denumire': different types for formal and actual parameter 2
+C:\Users\marap\source\repos\seminar 1\seminar 1\seminar 1.c(57,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  seminar 1.vcxproj -> C:\Users\marap\source\repos\seminar 1\seminar 1\x64\Debug\seminar 1.exe
