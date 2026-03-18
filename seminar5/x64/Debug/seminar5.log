@@ -1,0 +1,4 @@
+﻿  sem5.c
+C:\Users\marap\source\repos\seminar5\seminar5\sem5.c(45,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\marap\source\repos\seminar5\seminar5\sem5.c(126,1): warning C4715: 'citireLDMasiniDinFisier': not all control paths return a value
+  seminar5.vcxproj -> C:\Users\marap\source\repos\seminar5\x64\Debug\seminar5.exe
