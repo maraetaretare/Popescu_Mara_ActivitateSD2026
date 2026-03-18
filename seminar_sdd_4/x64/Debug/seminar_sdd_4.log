@@ -1,0 +1,3 @@
+﻿  sem4sdd.c
+C:\Users\marap\source\repos\seminar_sdd_4\seminar_sdd_4\sem4sdd.c(40,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  seminar_sdd_4.vcxproj -> C:\Users\marap\source\repos\seminar_sdd_4\seminar_sdd_4\x64\Debug\seminar_sdd_4.exe
